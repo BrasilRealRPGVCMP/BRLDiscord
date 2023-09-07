@@ -1,0 +1,29 @@
+{
+  "name": "node-sockets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^8.1.0",
+    "body-parser": "^1.20.1",
+    "discord-arts": "^0.4.0",
+    "discord.js": "^14.6.0",
+    "emoji-name-map": "^1.2.9",
+    "express": "^4.18.1",
+    "fetch": "^1.1.0",
+    "http": "^0.0.1-security",
+    "http-post": "^0.1.1",
+    "lib": "^4.3.3",
+    "node-simple-socket": "^2.8.1",
+    "request": "^2.88.2",
+    "socket-io-server": "^1.0.5",
+    "socket.io": "^4.5.1",
+    "websocket": "^1.0.34",
+    "ws": "^8.8.1"
+  }
+}
